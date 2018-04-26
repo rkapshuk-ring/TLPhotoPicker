@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '9.1'
 
-  s.source_files = 'TLPhotoPicker/Classes/**/*'
+  s.source_files = 'TLPhotoPicker/Classes/**/*.swift'
   
   s.resource_bundles = { 'TLPhotoPicker' => ['TLPhotoPicker/Classes/*.xib'] }
   # s.resources = 'TLPhotoPicker/TLPhotoPickerController.bundle'
